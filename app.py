@@ -1,0 +1,1 @@
+"print('TaskTracker started')" | Out-File app.py -Encoding utf8
