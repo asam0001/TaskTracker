@@ -1,1 +1,3 @@
-"print('TaskTracker started')" | Out-File app.py -Encoding utf8
+print("TaskTracker started")
+
+print("Welcome to TaskTracker")

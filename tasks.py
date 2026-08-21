@@ -1,1 +1,2 @@
-"def add_task(task):" | Out-File tasks.py -Encoding utf8
+def add_task(task):
+    pass
