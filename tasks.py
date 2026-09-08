@@ -1,2 +1,4 @@
 def add_task(task):
-    pass
+    print("Showing all tasks")
+def add_task(task):
+    print("Task added:", task)
